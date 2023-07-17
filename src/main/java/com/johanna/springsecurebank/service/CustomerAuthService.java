@@ -1,4 +1,4 @@
-package com.johanna.springsecurebank.service;
+/*package com.johanna.springsecurebank.service;
 
 import com.johanna.springsecurebank.model.Customer;
 import com.johanna.springsecurebank.repository.CustomerRepository;
@@ -13,6 +13,8 @@ import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
+
+## This approach leverages the custom DAOAuthenticationProvider given by the spring security framework
 
 @Service
 public class CustomerAuthService implements UserDetailsService {
@@ -39,4 +41,4 @@ public class CustomerAuthService implements UserDetailsService {
 
     }
 
-}
+}*/
