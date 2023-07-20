@@ -2,7 +2,6 @@ package com.johanna.springsecurebank.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import org.hibernate.annotations.GenericGenerator;
 
 import java.sql.Date;
 
